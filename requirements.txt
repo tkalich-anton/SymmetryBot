@@ -1,0 +1,8 @@
+aiogram~=2.12
+environs~=8.0.0
+motor~=2.5.0
+umongo~=3.0.0
+asyncio~=3.4.3
+pymongo~=3.12.0
+bcrypt~=3.2.0
+python-dateutil~=2.8.2
